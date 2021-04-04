@@ -1,0 +1,78 @@
+.{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background: rgb(0,0,0);
+    background: rgb(166,163,163);
+    background: linear-gradient(90deg, rgba(166,163,163,1) 0%, rgba(255,255,255,1) 50%, rgba(255,115,115,1) 100%);
+    
+}
+
+#the{
+    color: black;
+}
+#mobile{
+    color: red;
+
+}
+
+#store{
+    color: black;
+}
+.header{
+   font-family: 'Poppins', sans-serif;;
+   font-size:50px;
+   text-align: center;
+   font-weight: bolder;
+  
+}
+
+.mobiles{
+    background-color: transparent;
+    float: left;
+    width: 29%;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 50px;
+    
+    
+}
+.mobiles:hover{
+    transform: translateY(5px);
+    background:linear-gradient(90deg, rgba(166,163,163,1) 0%, rgba(255,255,255,1) 50%, rgba(255,115,115,1) 100%) ;
+    border: 3px solid black;
+}
+img{
+    margin-left: 100px;
+}
+h1{
+    color: black;
+    
+    text-align: center;
+    
+}
+h2{
+    color: black;
+    text-align: center;
+}
+#price{
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 40px;
+}
+/* button{
+    text-align: center;
+    margin-left: 30px;
+    height: 35px;
+    width:140px ;
+    background-color: black;
+    color: white;
+} */
+.rating{
+    float: right;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-right: 50px;
+}

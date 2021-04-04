@@ -1,0 +1,16 @@
+.{
+    margin: 0%;
+    padding: 0%;
+    background-color:   #B9C4DB;
+}
+.container{
+    margin-left: 350px;
+    margin-top: 150px;
+    background-color: #DFE3EE;
+    width: 450px;
+    height: 550px;
+    border: rebeccapurple;
+    border-width: 2px;
+    border-radius: 10px;
+    
+}

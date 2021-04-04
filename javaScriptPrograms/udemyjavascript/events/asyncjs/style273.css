@@ -1,0 +1,8 @@
+body{
+    transition: background-color 0.5s ease;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    padding-top: 100px;
+}

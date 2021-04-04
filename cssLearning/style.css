@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+h1{
+    color: black;
+    text-align: center;
+    text-decoration: underline whitesmoke;
+    background-color: rgb(111, 201, 22);
+    
+
+}
+div{
+    color: slategray;
+    border: 1.5px solid grey;
+    border-radius: 20px;
+
+    background-color: rgb(33, 34, 36);
+    float: left;
+    width: 30%;
+
+   margin-right: 20px;
+   margin-top: 20px;
+    
+}
+h2{
+    color:rgb(111, 201, 22);
+    text-align: center;
+    text-shadow: blanchedalmond;
+}
+img{
+    margin-left: 120px;
+    
+}
+p{
+    color: yellowgreen;
+    text-align: center;
+
+}
+button{
+    color: black;
+    width: 150px;
+    height: 40px;
+    align-self: center;
+    
+}

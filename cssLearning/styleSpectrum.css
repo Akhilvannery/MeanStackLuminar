@@ -1,0 +1,100 @@
+h1{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+h2{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    color: red;
+}
+.main{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(0, 0, 255);
+    display: flex;
+    justify-content: space-around;
+
+}
+.part{
+    width: 200px;
+    height: 350px;
+    background-color: black;
+    border: 2px solid red;
+    
+}
+
+/* }
+.first{
+    background-color: #12608c;
+    position: relative;
+    left: 10%;
+}
+.second{
+    background-color: #12a668;
+    position: relative;
+    left:12%;
+
+}
+.third{
+    background-color: #9ee67a;
+    position: relative;
+    left:14% ;
+}
+.fourth{
+    background-color: #fffd73;
+    position: relative;
+    left: 16%;
+}
+.fifth{
+    background-color: #e30e0e;
+    position: relative;
+    left: 18%;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+/* .c1,.c2,.c3,.c4,.c5{
+    width: 15%;
+    height: 500px;
+    float: left;
+    
+    
+    border-radius: 5px;
+} */
+/* .c1{
+    background-color: #12608c;
+    position: relative;
+    left: 10%;
+}
+.c2{
+    background-color: #12a668;
+    position: relative;
+    left:12%;
+}
+.c3{
+    background-color: #9ee67a;
+    position: relative;
+    left:14% ;
+}
+.c4{
+    background-color: #fffd73;
+    position: relative;
+    left: 16%;
+
+}
+.c5{
+    background-color: #e30e0e;
+    position: relative;
+    left: 18%;
+    
+
+} */

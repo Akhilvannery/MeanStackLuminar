@@ -1,0 +1,12 @@
+div{
+    width: 40%;
+    height: 20%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+    margin-left: 100px;
+    padding-left: 100px;
+}
+#bottom{
+    margin-top: 200px;
+}
