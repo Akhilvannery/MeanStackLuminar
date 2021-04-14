@@ -1,0 +1,133 @@
+html{
+    margin: 0;
+    padding: 0;
+
+}
+.phone__photo{
+    margin-top: 60px;
+    height: 550px;
+    float: right;
+    margin-right: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif !important;
+    background-color: #fafafa !important;
+}
+.right-column{
+    margin-top: 60px;
+}
+.instagram__logo{
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.pass{
+    display: flex;
+}
+.or::before,
+.or::after {
+    
+    display: inline-block;
+    content: "";
+    border-top: 1px solid rgb(202, 202, 202);
+    width: 40%;
+    margin: 0 ;
+    transform: translateY(-5px);
+}
+.right-column{
+    width: 350px;
+    float: left;
+}
+.login__area{
+    border: 1px solid rgb(202, 202, 202);
+    background-color: white;
+    height: 390px;
+    padding: 10px 30px;
+    padding-bottom: 20px;
+    
+    
+}
+
+#email{
+    background-color: #fafafa;
+    font-size:12px;
+    height: 36px;
+}
+#password{
+    background-color: #fafafa;
+    font-size:12px;
+    height: 36px;
+}
+.login__btn{
+width: 100%;
+font-size:12px !important;
+margin-bottom: 20px;
+margin-top: 5px;
+}
+
+.signup__area{
+    padding-top: 16px;
+    margin-top: 20px;
+    border: 1px solid rgb(202, 202, 202);
+    background-color: white;
+    height: 63px;
+    margin-bottom: 5px;
+    font-size: 13px;
+}    
+.store__images{
+    display: flex;
+    height: 40px;
+    justify-content: center;
+}
+#fblogin{
+    text-decoration: none;
+    color: rgb(27, 14, 109);
+    font-weight: 500;
+    font-size: smaller;
+}
+#forgotpass{
+  
+    text-decoration:none;
+    color: black;
+    font-size: 11px;
+}
+footer{
+    margin-top: 30px;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.links{
+    padding-top: 5px;
+    text-align: center;   
+    width: fit-content;
+
+}
+
+.links a{
+    text-decoration: none !important;
+    color: rgb(85, 84, 84) ;
+    font-size: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.copyright{
+    display: flex;
+   position: absolute;
+   left: 500px;
+   top: 700px;
+    font-size: 12px;
+    
+}
+.form-select{
+    background-color: #fafafa;
+    border: none;
+    color:rgb(85, 84, 84) !important;
+
+}
+#lisence{
+    padding-top: 8px;
+    color: rgb(85, 84, 84) !important;
+}
+#getapp{
+    font-size: 13px;
+}

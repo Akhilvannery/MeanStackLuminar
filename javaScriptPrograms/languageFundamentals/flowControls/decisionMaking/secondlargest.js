@@ -1,9 +1,15 @@
-let arr=[10,20,30,40];
-let large=0;
-let seclarge=0;
+// var a=10;
+// var b= 20;
+// var c= 30;
 
-for (let i = 0;r< arr.length; i++){
-    if (arr[i]>=seclarge) {
-        seclarge=arr[i]
-    }
-}
+// if(a>b && a>c){
+//     if(b>c){
+//         console.log("b is greater");
+//     }else{
+//         console.log("c is greater");
+//     }
+// }else{
+//     if(b>c){
+//         console.log("c is greater");
+//     }
+// }
